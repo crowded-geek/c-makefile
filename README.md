@@ -6,4 +6,8 @@ for GCI
 - `make`
 - `./output`
 
+## Screeshot:
+
+![img](https://i.imgur.com/lQIZ71u.png)
+
 Demo: [here](https://streamable.com/eqqt1)
