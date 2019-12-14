@@ -6,7 +6,7 @@ for GCI
 - `make`
 - `./output`
 
-## Screeshot:
+## Screenshot:
 
 ![img](https://i.imgur.com/lQIZ71u.png)
 
